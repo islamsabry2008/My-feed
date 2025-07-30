@@ -20,6 +20,9 @@ https://drive.google.com/file/d/1RbW7wcQIa8ZI5r8VsEuzLhpg60qKSwx-/view?usp=shari
 vuduo4k
 https://drive.google.com/file/d/1zWzqKdM7tZ23MxoXfuSxN3DMKT1SVBob/view?usp=sharing
 
+vuduo4kse
+https://drive.google.com/file/d/17-NGTUahwKyMGZcnzk9n1gbXaYuIWUov/view?usp=sharing
+
 vuzero4k
 https://drive.google.com/file/d/1Cptp_4YA_cpflsLPs6PO8d1h6ugGchxl/view?usp=sharing
 
