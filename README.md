@@ -1,7 +1,5 @@
 Submodules bitbake, openembedded-core and meta-openembedded from master branch.
-GCC 15.1.0,Glibc 2.41,ffmpeg 7.1.1,GStreamer 1.26.4,Python 3.13.5,OpenSSL 3.5.0, doesn't work YouTube TV.
-
-et11000,solo2-ChkrootMultiboot.
+Later- GCC 15.1.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.5,Python 3.13.6,OpenSSL 3.5.2.
 
 27.07.2025
 
