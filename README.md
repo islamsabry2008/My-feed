@@ -25,6 +25,9 @@ vusolo2
 vuultimo4k
 https://drive.google.com/file/d/1SBSwAFTLui6z9oxVnB0-V9EzDNSFUUJ8/view?usp=sharing
 
+vusolo4k
+https://drive.google.com/file/d/1HKsZ0Wvh7JuW8gPY5o1Bj7x2Sp40NQdT/view?usp=sharing
+
 vuduo4k
 
 
