@@ -4,8 +4,6 @@ GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.5,Python 3.13.7,OpenSSL 3.5.2,ko
 
 ![screenshot_20250907121427](https://github.com/user-attachments/assets/f1a41f58-8969-481b-9649-60aabb7e320e)
 
-![screenshot_20250908000755](https://github.com/user-attachments/assets/733c54e0-39fa-44a2-b606-33843bae4313)
-
 06.09.2025
 
 pulse4kmini
