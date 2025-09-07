@@ -8,7 +8,7 @@ pulse4kmini
 https://drive.google.com/file/d/1eV0dXOzTI0UIQxQRahJCu7Nkzig25Prh/view?usp=sharing
 
 et11000
-
+https://drive.google.com/file/d/1n48hDnfQlwYkDIkweulnvjZtFkV_m6Y6/view?usp=sharing
 
 sf8008
 https://drive.google.com/file/d/1i2UHbKcQemt6qlqtW4cRuGfY9Bkqkhma/view?usp=sharing
