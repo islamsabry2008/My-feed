@@ -35,7 +35,7 @@ vusolo4k
 https://drive.google.com/file/d/1zxU_jLlXNlhw9U-MD4CHZe-8UpVtdX9c/view?usp=sharing
 
 vuduo4k
-
+https://drive.google.com/file/d/1bFooevypQhhYeGDzLR-BsY13TVOUkCdF/view?usp=sharing
 
 vuduo4kse
 https://drive.google.com/file/d/1LX_f0VHDoDmXzboguGcLeU8UUoLNsIf9/view?usp=sharing
