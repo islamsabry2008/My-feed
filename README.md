@@ -32,7 +32,7 @@ vuultimo4k
 https://drive.google.com/file/d/1kU5oKjYFWcO7yrcr6rIDPxDyvPDIzhL5/view?usp=sharing
 
 vusolo4k
-
+https://drive.google.com/file/d/1zxU_jLlXNlhw9U-MD4CHZe-8UpVtdX9c/view?usp=sharing
 
 vuduo4k
 
