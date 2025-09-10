@@ -44,7 +44,7 @@ vuuno4k
 https://drive.google.com/file/d/1B7ZHBmcGCMMIeyyj7-V6ziAGYSODU1Z2/view?usp=sharing
 
 vuuno4kse
-
+https://drive.google.com/file/d/1yQRBctBj-MHbQkqJglugpR6uEVEij-72/view?usp=sharing
 
 vuzero4k
 https://drive.google.com/file/d/1EIPWKzKu-JsY0OIAm0o9DPlQn9zFfrWj/view?usp=sharing
