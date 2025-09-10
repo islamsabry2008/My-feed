@@ -26,7 +26,7 @@ hd51
 https://drive.google.com/file/d/1BgqobCPpUICEWTjj3M9mub8C2xl6QV8k/view?usp=sharing
 
 vusolo2
-
+https://drive.google.com/file/d/1REkWglNu8nk-Vf2DIwooK8Stowo5uQfs/view?usp=sharing
 
 vuultimo4k
 https://drive.google.com/file/d/1kU5oKjYFWcO7yrcr6rIDPxDyvPDIzhL5/view?usp=sharing
