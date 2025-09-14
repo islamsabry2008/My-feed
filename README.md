@@ -10,6 +10,9 @@ GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.5,Python 3.13.7,OpenSSL 3.5.2,ko
 
 06.09.2025
 
+pulse4k
+https://drive.google.com/file/d/1xUA4X_YfoJ4ZjDQ4t5V3xUKfD11-xrVO/view?usp=sharing
+
 pulse4kmini
 https://drive.google.com/file/d/1eV0dXOzTI0UIQxQRahJCu7Nkzig25Prh/view?usp=sharing
 
