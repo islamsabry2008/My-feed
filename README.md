@@ -1,12 +1,19 @@
 Submodules bitbake, openembedded-core and meta-openembedded from master branch.
 
-GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.5,Python 3.13.7,OpenSSL 3.5.2,kodi22 Piers.
+GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.6,Python 3.13.7,OpenSSL 3.5.2,kodi22 Piers.
 
 ![screenshot_20250907121427](https://github.com/user-attachments/assets/f1a41f58-8969-481b-9649-60aabb7e320e)
 
 По поводу kodi.
 ![screenshot_20250908000755](https://github.com/user-attachments/assets/5eb0fa7e-4172-427b-8372-fcac932dc14a)
 
+25.09.2025
+
+sf8008
+https://drive.google.com/file/d/1DLyv8F84UFZtTgQ064t5dA_GWIO7RnJX/view?usp=sharing
+
+pulse4kmini
+https://drive.google.com/file/d/17fGm7XwEeltX8vJpePtqsIANq6ACr-jX/view?usp=sharing
 
 06.09.2025
 
