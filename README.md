@@ -29,7 +29,7 @@ hd51
 https://drive.google.com/file/d/1BgqobCPpUICEWTjj3M9mub8C2xl6QV8k/view?usp=sharing
 
 vusolo2
-https://drive.google.com/file/d/1fto0ip8l3Qw8jnlGvSu8LUtHklmLUmns/view?usp=sharing
+https://drive.google.com/file/d/1UG7idlufOiJYHTrN7td1NxWERkg9BITd/view?usp=sharing
 
 vuultimo4k
 https://drive.google.com/file/d/1kU5oKjYFWcO7yrcr6rIDPxDyvPDIzhL5/view?usp=sharing
