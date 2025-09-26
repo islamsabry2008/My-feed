@@ -9,6 +9,9 @@ GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.6,Python 3.13.7,OpenSSL 3.5.2,ko
 
 25.09.2025
 
+vuduo4kse
+https://drive.google.com/file/d/1WN8YSufF7STQS13T1Wv-jKlSv1f-A2aF/view?usp=sharing
+
 sf8008
 https://drive.google.com/file/d/1DLyv8F84UFZtTgQ064t5dA_GWIO7RnJX/view?usp=sharing
 
@@ -20,14 +23,8 @@ https://drive.google.com/file/d/17fGm7XwEeltX8vJpePtqsIANq6ACr-jX/view?usp=shari
 pulse4k
 https://drive.google.com/file/d/1xUA4X_YfoJ4ZjDQ4t5V3xUKfD11-xrVO/view?usp=sharing
 
-pulse4kmini
-https://drive.google.com/file/d/1eV0dXOzTI0UIQxQRahJCu7Nkzig25Prh/view?usp=sharing
-
 et11000
 https://drive.google.com/file/d/1n48hDnfQlwYkDIkweulnvjZtFkV_m6Y6/view?usp=sharing
-
-sf8008
-https://drive.google.com/file/d/1i2UHbKcQemt6qlqtW4cRuGfY9Bkqkhma/view?usp=sharing
 
 h9combo
 https://drive.google.com/file/d/1U_nmieCex774pos3qF2jYNj-BzRmz45f/view?usp=sharing
@@ -46,9 +43,6 @@ https://drive.google.com/file/d/1zxU_jLlXNlhw9U-MD4CHZe-8UpVtdX9c/view?usp=shari
 
 vuduo4k
 https://drive.google.com/file/d/1bFooevypQhhYeGDzLR-BsY13TVOUkCdF/view?usp=sharing
-
-vuduo4kse
-https://drive.google.com/file/d/1LX_f0VHDoDmXzboguGcLeU8UUoLNsIf9/view?usp=sharing
 
 vuuno4k
 https://drive.google.com/file/d/1B7ZHBmcGCMMIeyyj7-V6ziAGYSODU1Z2/view?usp=sharing
