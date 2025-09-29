@@ -2,7 +2,7 @@ Submodules bitbake, openembedded-core and meta-openembedded from master branch.
 
 GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.6,Python 3.13.7,OpenSSL 3.5.2,kodi22 Piers.
 
-Chromium Web Browser-sf8008,pulse4kmini.
+Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 
 ![screenshot_20250907121427](https://github.com/user-attachments/assets/f1a41f58-8969-481b-9649-60aabb7e320e)
 
@@ -27,7 +27,7 @@ et11000
 
 
 h9combo
-
+https://drive.google.com/file/d/1XWiGFERoAeOfQtnwfr3ITeplIu_M4MBb/view?usp=sharing
 
 hd51
 
