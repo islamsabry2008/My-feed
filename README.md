@@ -2,50 +2,50 @@ Submodules bitbake, openembedded-core and meta-openembedded from master branch.
 
 GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.6,Python 3.13.7,OpenSSL 3.5.2,kodi22 Piers.
 
+Chromium Web Browser-sf8008,pulse4kmini.
+
 ![screenshot_20250907121427](https://github.com/user-attachments/assets/f1a41f58-8969-481b-9649-60aabb7e320e)
 
 По поводу kodi.
 ![screenshot_20250908000755](https://github.com/user-attachments/assets/5eb0fa7e-4172-427b-8372-fcac932dc14a)
 
-25.09.2025
+29.09.2025
 
 vuduo4kse
-https://drive.google.com/file/d/1WN8YSufF7STQS13T1Wv-jKlSv1f-A2aF/view?usp=sharing
+
 
 sf8008
-https://drive.google.com/file/d/1DLyv8F84UFZtTgQ064t5dA_GWIO7RnJX/view?usp=sharing
+https://drive.google.com/file/d/13LmGuOtrHWGErWZ7_Kmeh1xMJLc4Rmkj/view?usp=sharing
 
 pulse4kmini
-https://drive.google.com/file/d/17fGm7XwEeltX8vJpePtqsIANq6ACr-jX/view?usp=sharing
-
-06.09.2025
+https://drive.google.com/file/d/1X0bwvmjMwOw120ItA3sjA8814ogrrukZ/view?usp=sharing
 
 pulse4k
-https://drive.google.com/file/d/1xUA4X_YfoJ4ZjDQ4t5V3xUKfD11-xrVO/view?usp=sharing
+
 
 et11000
-https://drive.google.com/file/d/1n48hDnfQlwYkDIkweulnvjZtFkV_m6Y6/view?usp=sharing
+
 
 h9combo
-https://drive.google.com/file/d/1U_nmieCex774pos3qF2jYNj-BzRmz45f/view?usp=sharing
+
 
 hd51
-https://drive.google.com/file/d/1BgqobCPpUICEWTjj3M9mub8C2xl6QV8k/view?usp=sharing
+
 
 vusolo2
-https://drive.google.com/file/d/1UG7idlufOiJYHTrN7td1NxWERkg9BITd/view?usp=sharing
+
 
 vuultimo4k
-https://drive.google.com/file/d/1kU5oKjYFWcO7yrcr6rIDPxDyvPDIzhL5/view?usp=sharing
+
 
 vusolo4k
-https://drive.google.com/file/d/1zxU_jLlXNlhw9U-MD4CHZe-8UpVtdX9c/view?usp=sharing
+
 
 vuduo4k
-https://drive.google.com/file/d/1bFooevypQhhYeGDzLR-BsY13TVOUkCdF/view?usp=sharing
+
 
 vuuno4k
-https://drive.google.com/file/d/1B7ZHBmcGCMMIeyyj7-V6ziAGYSODU1Z2/view?usp=sharing
+
 
 vuuno4kse
 https://drive.google.com/file/d/1yQRBctBj-MHbQkqJglugpR6uEVEij-72/view?usp=sharing
