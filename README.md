@@ -18,7 +18,7 @@ sf8008
 https://drive.google.com/file/d/13LmGuOtrHWGErWZ7_Kmeh1xMJLc4Rmkj/view?usp=sharing
 
 pulse4kmini
-https://drive.google.com/file/d/1X0bwvmjMwOw120ItA3sjA8814ogrrukZ/view?usp=sharing
+https://drive.google.com/file/d/1nWyiZ1tEL_LWmgPAECa5UfGbKOqCbNA5/view?usp=sharing
 
 pulse4k
 
