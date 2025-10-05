@@ -9,6 +9,12 @@ Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 По поводу kodi.
 ![screenshot_20250908000755](https://github.com/user-attachments/assets/5eb0fa7e-4172-427b-8372-fcac932dc14a)
 
+05.11.2025
+
+dm900
+
+https://drive.google.com/file/d/1VR696SrkwFW-Dq9U5cZr4jj1eYn1Ai8c/view?usp=sharing
+
 29.09.2025
 
 vuduo4kse
