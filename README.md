@@ -4,7 +4,8 @@ GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.6,Python 3.13.7,OpenSSL 3.5.2,ko
 
 Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 
-![screenshot_20250907121427](https://github.com/user-attachments/assets/f1a41f58-8969-481b-9649-60aabb7e320e)
+![1_0_16_723_12_70_1680000_0_0_0_20251005122209](https://github.com/user-attachments/assets/9268863b-d562-4f8c-b7d4-aa653827d3b1)
+
 
 05.10.2025
 
