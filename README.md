@@ -19,7 +19,7 @@ vuduo4kse
 
 
 sf8008
-
+https://drive.google.com/file/d/1o4JO10L0wm_FQe6pjaX8lopR_vi2J17e/view?usp=sharing
 
 pulse4kmini
 https://drive.google.com/file/d/1MkdJ7x2IZkAHYMQv4hTcC1JEXJxTD_fk/view?usp=sharing
