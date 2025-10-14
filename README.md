@@ -12,6 +12,9 @@ Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 dm900
 https://drive.google.com/file/d/1VR696SrkwFW-Dq9U5cZr4jj1eYn1Ai8c/view?usp=sharing
 
+dm920
+https://drive.google.com/file/d/1ZF81zpLcPV9LVxMTJ5Fer8G1MQx8T6_9/view?usp=sharing
+
 et11000
 https://drive.google.com/file/d/1f2A0rwyKAEQ7SKTgvx8aD4wE08pP8yur/view?usp=sharing
 
