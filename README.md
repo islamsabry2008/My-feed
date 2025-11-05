@@ -9,8 +9,6 @@ Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 
 02.11.2025
 
-dm900
-
 
 dm920
 
