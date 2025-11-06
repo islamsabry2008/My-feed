@@ -33,6 +33,9 @@ https://drive.google.com/file/d/1sSBbIdwG2bzBLywtUbbILyQcdyYuVnjZ/view?usp=shari
 vusolo4k
 https://drive.google.com/file/d/1Hr9kwQtEAXRr-7FggCS8q-wipOKilxsw/view?usp=sharing
 
+vuzero4k
+https://drive.google.com/file/d/1iQFCwS6FIQk05q_H2a9jrJQG4LhJMqdn/view?usp=sharing
+
 sf8008
 https://drive.google.com/file/d/1MXNB-IW86LrYl26omA90IizwyLAM1dpi/view?usp=sharing
 
