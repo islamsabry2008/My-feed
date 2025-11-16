@@ -1,49 +1,25 @@
 Submodules bitbake, openembedded-core and meta-openembedded from master branch.
 
-GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.7,Python 3.13.9,OpenSSL 3.6.0,kodi22 Piers.
+GCC 15.2.0,Glibc 2.42,ffmpeg 8.0,GStreamer 1.26.8,Python 3.13.9,OpenSSL 3.6.0,kodi22 Piers.
 
 Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 
 ![4097_0_1_0_0_0_0_0_0_0_20251102085418](https://github.com/user-attachments/assets/fad339d9-5fbd-44a5-9bfd-e1f6668b6396)
 
 
-02.11.2025
-
-
-dm920
-
+16.11.2025
 
 et11000
-
-vuultimo4k
-https://drive.google.com/file/d/1euofwtMGBVrxaygo8Ffo8wblfuTx84Fi/view?usp=sharing
+https://drive.google.com/file/d/15RwZCu6MnDfa66qP86_mfSGWEQIWipYp/view?usp=sharing
 
 vuduo4k
-https://drive.google.com/file/d/14leBATcxoLR15Iu_h33DCgubFMYEsVMR/view?usp=sharing
+https://drive.google.com/file/d/1Ni5y477VoiXmR2ZGTT9YAerXco_CzV-r/view?usp=sharing
 
 vuduo4kse
-https://drive.google.com/file/d/1U5QEArIYMB1Zsnztxc1j879u8WVk7HvY/view?usp=sharing
-
-vuuno4k
-https://drive.google.com/file/d/1Uc81WthSTX5AFgchbzNgtL7s-MQiqbeA/view?usp=sharing
-
-vuuno4kse
-https://drive.google.com/file/d/1sSBbIdwG2bzBLywtUbbILyQcdyYuVnjZ/view?usp=sharing
-
-vusolo4k
-https://drive.google.com/file/d/1Hr9kwQtEAXRr-7FggCS8q-wipOKilxsw/view?usp=sharing
-
-vuzero4k
-https://drive.google.com/file/d/1iQFCwS6FIQk05q_H2a9jrJQG4LhJMqdn/view?usp=sharing
+https://drive.google.com/file/d/1mEdFq--gEddeulGXDkaottrFOuX5cZRo/view?usp=sharing
 
 sf8008
-https://drive.google.com/file/d/1MXNB-IW86LrYl26omA90IizwyLAM1dpi/view?usp=sharing
-
-pulse4kmini
-
-
-et11000
-
+https://drive.google.com/file/d/1jILaG8Lx8In1HymMTO5AolMwzGQOu1mI/view?usp=sharing
 
 h9combo
-https://drive.google.com/file/d/1R6V4bmSzJDaQHU90nTeVvYkcbTP2qqZm/view?usp=sharing
+https://drive.google.com/file/d/1QE2OUYa8P_ua3_tXh5XT6b_dJd1sqBgq/view?usp=sharing
