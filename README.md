@@ -8,3 +8,6 @@ Chromium Web Browser-sf8008,pulse4kmini,h9combo.
 
 pulse4kmini
 https://drive.google.com/file/d/1T8Fbv5wTPgCVM0f-DGc0R_XU68KNN3dB/view?usp=sharing
+
+et11000
+https://drive.google.com/file/d/1tHZC67uz7ev8jFgSD6deJAm30Ny4HXvR/view?usp=sharing
